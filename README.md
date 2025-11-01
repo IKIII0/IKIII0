@@ -1,4 +1,5 @@
 ## Hi there👋, Iam a student of _*University of North Sumatera*_
+![gedagedi](https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3aml5dnJqMmU1eWUzbXR1enp4NnZ6djV1YnBxeXFoZ2Npd2tqaDFwZCZlcD12MV9naWZzX3RyZW5kaW5nJmN0PWc/DffShiJ47fPqM/giphy.gif)
 
 <!--
 **IKIII0/IKIII0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
