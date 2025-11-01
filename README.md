@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there👋, Iam a student of _*University of North Sumatera*_
 
 <!--
 **IKIII0/IKIII0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
