@@ -27,7 +27,7 @@
 |--------|-------------|
 | [BrainSpark](https://github.com/IKIII0/BrainSpark) | An interactive web-based quiz platform focused on computer science fundamentals and logical reasoning |
 | [Nexfora](https://github.com/IKIII0/Nexfora0) | A digital business platform for classes and services, featuring responsive branding and interactive layouts |
-| [Prediksi Harga Rumah]([https://github.com/IKIII0/Nexfora0](https://github.com/IKIII0/GDGoC_PrediksiHargaRumah)) | A machine learning-based tool for predicting house prices using structured data and regression models |
+| [Prediksi Harga Rumah](https://github.com/IKIII0/GDGoC_PrediksiHargaRumah) | A machine learning-based tool for predicting house prices using structured data and regression models |
 
 ---
 
